@@ -625,8 +625,8 @@ section span{
         </a>
       </div>
       <div class="social">
-        <a href="https://www.github.com/sahildesai07/WZML-X"><i class="fab fa-github"></i></a>
-        <a href="https://t.me/ultroid_official"><i class="fab fa-telegram"></i></a>
+        <a href="https://www.github.com/Sorry"><i class="fab fa-github"></i></a>
+        <a href="https://t.me/Semma_Bots"><i class="fab fa-telegram"></i></a>
       </div>
     </header>
     <section>
