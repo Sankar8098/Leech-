@@ -620,7 +620,7 @@ section span{
           src="https://graph.org/file/1a6ad157f55bc42b548df.png"
           alt="logo"
         />
-        <a href="https://t.me/ultroid_official">
+        <a href="https://t.me/Semma_Bots">
           <h2 class="name">Bittorrent Selection</h2>
         </a>
       </div>
