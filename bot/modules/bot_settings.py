@@ -43,7 +43,7 @@ default_values = {'AUTO_DELETE_MESSAGE_DURATION': 30,
                   'BOT_LANG': 'en',
                   'IMG_PAGE': 1,
                   'AUTHOR_NAME': 'WZML-X',
-                  'AUTHOR_URL': 'https://t.me/ultroid_official',
+                  'AUTHOR_URL': 'https://t.me/Semma_Bots',
                   'TITLE_NAME': 'WZ Mirror/Leech X',
                   'GD_INFO': 'Uploaded by WZML-X',
                   }
@@ -446,7 +446,7 @@ async def load_config():
 
     AUTHOR_URL = environ.get('AUTHOR_URL', '')
     if len(AUTHOR_URL) == 0:
-        AUTHOR_URL = 'https://t.me/ultroid_official'
+        AUTHOR_URL = 'https://t.me/Semma_Bots'
 
     TITLE_NAME = environ.get('TITLE_NAME', '')
     if len(TITLE_NAME) == 0:
