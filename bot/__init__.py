@@ -496,7 +496,7 @@ if len(AUTHOR_NAME) == 0:
 
 AUTHOR_URL = environ.get('AUTHOR_URL', '')
 if len(AUTHOR_URL) == 0:
-    AUTHOR_URL = 'https://t.me/ultroid_official'
+    AUTHOR_URL = 'https://t.me/Semma_Bots'
 
 TITLE_NAME = environ.get('TITLE_NAME', '')
 if len(TITLE_NAME) == 0:
